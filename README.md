@@ -1,6 +1,6 @@
 # Real Estate Management System
 
-A backend service prototype for real managing real estate properties and requirements
+A backend service prototype for managing real estate properties and requirements
 
 ## Features
 #### Property
